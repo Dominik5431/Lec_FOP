@@ -1,0 +1,11 @@
+module:h08
+classification
+classification.data
+classification.examples
+classification.examples.generics
+classification.examples.iris
+classification.examples.sms
+classification.examples.twodimensional
+classification.io
+classification.linalg
+classification.ui

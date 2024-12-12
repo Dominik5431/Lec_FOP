@@ -1,0 +1,17 @@
+module:h10
+campus
+campus.data
+campus.data.domain
+campus.data.query
+campus.data.query.csv
+campus.data.query.csv.io
+campus.data.query.csv.type
+campus.data.repository
+campus.test
+campus.test.matcher
+campus.ui
+campus.ui.editor
+campus.ui.form
+campus.ui.model
+campus.ui.renderer
+campus.ui.view

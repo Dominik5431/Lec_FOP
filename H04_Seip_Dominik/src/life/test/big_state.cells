@@ -1,0 +1,13 @@
+!Name: Big State
+!Author: Kim Berninger
+!A simple state of bigger size used for unit testing
+
+.O...OO
+.....OO..OOO
+.........OO
+..OO......OO
+.O.O....O.O
+...O..O......OO
+......O...OO.O
+......O....O
+OO.........O

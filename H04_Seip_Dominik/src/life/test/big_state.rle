@@ -1,0 +1,5 @@
+#N Big State
+#O Kim Berninger
+#C A simple state of bigger size used for unit testing
+x = 15, y = 10, rule = B3/S23
+$bo3b2o$5b2o2b3o$9b2o$2b2o6b2o$bobo4bobo$3bo2bo6b2o$6bo3b2obo$6bo4bo$2o9bo!

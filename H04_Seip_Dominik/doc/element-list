@@ -1,0 +1,11 @@
+module:h04
+life
+life.automaton
+life.automaton.initializer
+life.automaton.neighborhood
+life.automaton.rules
+life.automaton.state
+life.reader
+life.test
+life.ui
+life.ui.color

@@ -1,0 +1,5 @@
+#N Small State
+#O Kim Berninger
+#C A simple state of smaller size used for unit testing
+x = 2, y = 4, rule = B3/S23
+2$bo$!
